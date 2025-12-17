@@ -60,10 +60,15 @@ The goal of this project is to analyze **customer behavior**, identify **churn p
 ## Repository Structure
 
 ├── data/                     # Raw and cleaned datasets
+
 ├── notebooks/                # EDA, RFM, and modeling notebooks
+
 ├── src/                      # Python modules for processing
+
 ├── assets/                   # Images and diagrams (place your PNG here)
+
 ├── models/                   # Saved ML models
+
 ├── README.md                 # Project documentation
 
 ---
@@ -79,18 +84,6 @@ The goal of this project is to analyze **customer behavior**, identify **churn p
 
 ---
 
-## How to Run
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
-Run the main notebook:
-
-notebooks/01_olist_churn_analysis.ipynb
-
----
-
 ## Results Summary
 
 - RFM segmentation clearly identifies customer value tiers
@@ -103,4 +96,18 @@ notebooks/01_olist_churn_analysis.ipynb
 - Deploy the model as an API
 - Build an interactive dashboard (Streamlit / Power BI)
 - Add time-series forecasting for customer lifetime value
+
+---
+
+## How to Run
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+Run the main notebook:
+
+notebooks/01_olist_churn_analysis.ipynb
+
+---
 
