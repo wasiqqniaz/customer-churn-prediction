@@ -1,4 +1,4 @@
-# Olist Customer Churn Analysis with RFM Segmentation
+# Customer Churn Analysis with RFM Segmentation
 
 This project performs **end-to-end churn analysis** on the Olist Brazilian E-commerce dataset using **RFM segmentation**, **exploratory data analysis**, **feature engineering**, and **machine learning models** for churn prediction.
 
